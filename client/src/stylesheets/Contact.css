@@ -1,0 +1,38 @@
+.contact-us-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .contact-us-container h2 {
+    color: #333;
+  }
+  
+  .contact-us-container p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .contact-us-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-us-container ul li {
+    color: #666;
+    margin-bottom: 5px;
+  }
+  
+  .contact-info {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+  }
+h2{
+    text-align: center;
+    text-decoration: underline;
+}  
